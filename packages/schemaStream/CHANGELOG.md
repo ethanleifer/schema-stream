@@ -1,5 +1,11 @@
 # schema-stream
 
+## 1.6.1
+
+### Patch Changes
+
+- [`08b86d0754df3a813374a6fba4117ba9974c3daf`](https://github.com/hack-dance/schema-stream/commit/08b86d0754df3a813374a6fba4117ba9974c3daf) Thanks [@roodboi](https://github.com/roodboi)! - updating lint rules and fixing a bad undefined check
+
 ## 1.6.0
 
 ### Minor Changes
